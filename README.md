@@ -22,14 +22,7 @@ To contribute, follow these steps:
 Please ensure that your contributions adhere to our code of conduct.
 
 ## How to Use
-Each model is organized in a modular format, making it easy for you to understand, implement, and experiment with. We encourage you to explore the models and try them out on your own datasets.
-
-### Getting Started
-Clone the repository:
-```
-git clone https://github.com/NITK-CDS/Help-the-Models-Learn.git
-```
-Explore the models in the respective directories.
+Each algorithm and model is organized in a modular format, making it easy for you to understand, implement, and experiment with. We encourage you to explore them and try them out on your own datasets.
 
 Follow the documentation provided with each model for implementation details and usage instructions.
 
