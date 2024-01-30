@@ -1,7 +1,7 @@
-# Help the Models Learn
+# Deeper Learning
 Welcome to the repository! 🚀
 
-This repository is a collection of various machine learning and deep learning models implemented in Python, presented in a modular format. Our aim is to bridge the gap between theoretical knowledge and practical implementation by providing a comprehensive resource of classical and commonly used models.
+This repository is a collection of various machine learning and deep learning algorithms implemented in Python, presented in a modular format. Our aim is to bridge the gap between theoretical knowledge and practical implementation by providing a comprehensive resource of classical and commonly used models.
 
 ## About
 This project is maintained by the students of NITK CDS (Computatioanl and Data Science) Batch of 2025. We believe in the power of collaborative learning and are committed to making this repository a valuable asset for both beginners and experienced practitioners in the field of machine learning and data science.
