@@ -33,7 +33,4 @@ Explore the models in the respective directories.
 
 Follow the documentation provided with each model for implementation details and usage instructions.
 
-### Contact
-If you have any questions or suggestions, feel free to reach out to us at sohhamofficial@gmail.com.
-
-Happy learning and modeling! 🤖✨
+**Happy learning and modeling! 🤖✨**
