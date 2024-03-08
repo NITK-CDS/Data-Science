@@ -2,6 +2,8 @@
 
 Saving and loading models is crucial because it helps us avoid re-training them every time we need to use them. Imagine dealing with huge amounts of data in our models. Training them from scratch each time would be incredibly time-consuming due to all the complex calculations involved.
 
+Moreover, most of the times, we randomly select different parts of the data for training-validation-testing data subsets, so there is a high chance that everytim you train your model, the model gives a different accuracy score.
+
 So, once we've trained a model and got it working just right, we don't want to lose all that hard work. Instead of re-doing the training every time, we save the model's "weights" – basically, all the information it learned during training – into a file. This process is called serialization.
 
 There are a few popular methods for saving these serialized models:
@@ -10,6 +12,6 @@ There are a few popular methods for saving these serialized models:
 
 2. **HDF5 (Hierarchical Data Format version 5)**: Think of this as a fancy filing system specifically designed for storing large and complex datasets. It's great for models with lots of data.
 
-3. **Joblib**: Similar to Pickle, Joblib is another tool for saving and loading objects. It's especially good for saving big arrays of numbers, like the ones often used in machine learning.
+3. **Joblib**: Similar to Pickle, Joblib is another tool for saving and loading objects. It's especially good for saving big arrays of numbers, like the ones often using numpy arrays.
 
 Using any of these methods ensures that we can easily preserve our trained models and use them whenever we need to, without the hassle of retraining every time.
